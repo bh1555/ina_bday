@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+  
+<title>INA'S FIRST BIRTHDAY</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- <style>
+body, h1, h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+.w3-row-padding img {margin-bottom: 12px}
+.bgimg {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('/w3images/profile_girl.jpg');
+  min-height: 100%;
+}
+</style> -->
+  
+  
+<style>
+  h1 {
+  font-family: "Montserrat", sans-serif; 
+  text-align: center;
+}
+
+
+p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1em;
+  text-align: center;
+}
+
+
+
+.w3-row-padding img {margin-bottom: 5px}
+
+.bgimg {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('https://github.com/bh1555/ina_bday/blob/main/Ina_sticker_v1.png');
+  min-height: 100%;
+}
+
+a { 
+color: #000000
+}
+  </style>
+  
+  
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="w3-container w3-center" style="padding:128px 16px" id="home">
+    <h1 class="w3-jumbo"><b>Ina's 1st <br> Birthday Party</b></h1>
+    <p>이나의 돌잔치에 초대합니다. </p>
+    <p> 2023년 <b> 6월 25일 </b> (일) 낮 12시 <br>
+      롯데시티호텔 마포 2층 나루 <br> </p>
+        
+<img src="https://github.com/bh1555/ina_bday/blob/main/Ina_sticker_v1.png?raw=true" class="w3-image w3-hide-large w3-hide-small w3-round" style="display:block;width:55%;margin:auto;">
+
+      <p> <a href="https://forms.gle/hngX1NpTqSPMJiBY7"> RSVP - 참석 여부 응답하기  </a> </p>
+
+    
+<!--     
+    일시: 2023년 6월 25일 일요일 낮 12시 - 2시
+    장소: 롯데시티호텔 마포 2층 나루
+    주소: 서울 마포구 마포대로 109 
+    주차: 지하 4층 호텔 전용 주차장
+    지하철: 공덕역 (5, 6, 경의중앙, 공항철도) 2번 출구 -->
+
+    
+    
+  </header>
+  
+</body>
+</html>
